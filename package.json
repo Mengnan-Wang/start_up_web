@@ -1,0 +1,19 @@
+{
+  "name": "start_up_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mengnan-Wang/start_up_web.git"
+  },
+  "author": "Mengnan Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mengnan-Wang/start_up_web/issues"
+  },
+  "homepage": "https://github.com/Mengnan-Wang/start_up_web#readme"
+}
